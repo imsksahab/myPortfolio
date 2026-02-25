@@ -110,9 +110,9 @@
         });
 
         ScrollReveal().reveal('.home__social, .home__cv', {
-            origin: 'bottom',
+            origin: 'top',
             distance: '50px',
-            duration: 1000,
+            duration: 800,
             delay: 800,
             easing: 'ease-in-out',
             reset: true

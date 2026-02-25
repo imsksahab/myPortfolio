@@ -39,6 +39,7 @@
             </div>
         </div>
     </section>
+    <br><br>
 
     <!-- WORK -->
     <section class="work section">
